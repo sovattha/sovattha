@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+# Hello, world! ;-)
 
-You can use the [editor on GitHub](https://github.com/sovattha/sovattha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## TLDR;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am **Senior full stack developer** with a broad knowledge of **software development**.
 
-### Markdown
+**19 years of total experience** in software development including **8 years with modern stacks like React, Node.js and MongoDB**. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Used to work with Node.js, Express, MongoDB, ES6, Typescript, Angular, React or Next.js. 
 
-```markdown
-Syntax highlighted code block
+Led small teams of software engineers.
 
-# Header 1
-## Header 2
-### Header 3
+Created entire cloud based or on-premise APIs based on message queues, SOAP, REST or GraphQL services. 
 
-- Bulleted
-- List
+# Portfolio
 
-1. Numbered
-2. List
+## Professional apps and websites
 
-**Bold** and _Italic_ and `Code` text
+### tpg, tl
 
-[Link](url) and ![Image](src)
-```
+- [tpgPreview](https://www.tpg.ch/fr/voyager/plus-de-mobilite/application-tpg) and [tl](https://www.t-l.ch/abos-billets/billets/ebillets) are the mobile apps that are used by thousands of users around Geneva (tpg) and Lausanne (tl). It helps them find their itineraries by bus or train along with buying their e-tickets from their mobile phone.
+- Front-end Developer: developing new screens of the main app (Ionic, Angular)
+- + evaluating interactions with others external (React native)
+- Back-end Developer: improving the back-end (NestJs, GraphQL, MongoDB)
+- DevOps: hosting the solution on AWS (EKS), configuring Gitlab (OVH) and Gitlab runners (EC2)
+- L3 support (JIRA)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### PrestoPark
 
-### Jekyll Themes
+- [PrestoPark](https://prestopark.com/) is a range of e-services for motorists using paid on-street parking. Helps finding parking spot by guiding motorists to vacant parking spaces and offering them in payment solutions with fully paperless parking tickets.
+- Front-end Developer: developed the main website (AngularJS)
+- Back-end Developer: developed the backend for frontend API (Express) and the external API (Loopback) used by external parking providers like Easypark, Paybyphone, Parkeon, etc. or the French government agency ANTAI.
+- DevOps: configured the CI/CD (Gitlab) that uses runners (on premises + OVH) to autodeploy to AWS (ElasticBeanstalk).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sovattha/sovattha/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Parking Val d'Isère
 
-### Support or Contact
+- [Parking Val d'Isère](https://www.parkingvaldisere.com/) is the off-street parking solution for Val d'Isère. It is used by seasonal motorists to access the parking during each winter seasons.
+- Front-end Developer: developed the main website as a variation of PrestoPark (AngularJS) + the admin dashboard (React) to manage the bookings
+- Back-end Developer: developed the backend for frontend API (Express) and the external API (Loopback) used by the external parking provider Skidata
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Hobbies
+
+On my free time, I create web applications that makes use of the latest modern stacks.
+
+## CryptoScore
+
+[CryptoScore](https://www.thetradingteam.link/)
+
+- Front-end Developer: developed pages and components using Next.js and React
+- State management using Redux
+- UI framework [Material-UI](https://material-ui.com/)
+- Back-end Developer: development AWS Lambda functions to fetch the data from MongoDB and expose them to API endpoints (API Gateway)
+- DevOps: configured the CI/CD that makes use of Github, SAM CLI and AWS CloudFormation
+
+Example of a screen: https://www.thetradingteam.link/en/dashboard/top10
+- The scores are computed using AWS SQS queues to guarantee the completeness of the scraped data from the Coingecko API.
+- Alerts are sent by e-mail using AWS SNS notifications.
+
+## Let's Pay Crypto!
+
+[Let's Pay Crypto](https://letspaycrypto.com/) is a web3 dApp that helps people to share their expenses during friend gatherings.
+
+- Front-end Developer: developed pages and components using Next.js and React
+- State management using Redux
+- UI framework [Material-UI](https://material-ui.com/)
+- Back-end Developer: developed Moralis functions to manage the user data
+
+# Github projects
+
+A selection of my public Github projects:
+
+- [Gate.io automated trader in NodeJS
+](https://github.com/sovattha/gateio-ws): Simple NodeJS project using the Gate.io API websockets and a Cassandra database hosted on Datastax.
+- [Gate.io API for Next.js](https://github.com/sovattha/gateio-nextjs): Simple wrapper around the Gate.io API to be run on Next.js.
+- [Next Right Now](https://github.com/sovattha/next-right-now): Some minor contributions to the awesome framework [Next Right Now](https://github.com/UnlyEd/next-right-now)
+- [Vimeo player component for React](https://github.com/sovattha/react-vimeo): Some minor contributions to allow backward compatibility
+- [WhatColour](https://github.com/sovattha/WhatHouse): What colour are you?
+- [Magic: The Gathering deck editor](https://github.com/sovattha/mtg): A simplistic deck editor of Magic cards
