@@ -31,7 +31,7 @@ Created entire cloud based or on-premise APIs based on message queues, SOAP, RES
 
 ### PrestoPark
 
-<img src="portail-web-prestopark-macbook.png" alt="drawing" width="200"/>
+<img src="portail-web-prestopark-macbook.png" alt="drawing" width="600"/>
 
 - [PrestoPark](https://prestopark.com/) is a range of e-services for motorists using paid on-street parking. Helps finding parking spot by guiding motorists to vacant parking spaces and offering them in payment solutions with fully paperless parking tickets.
 - Front-end Developer: developed the main website (AngularJS)
