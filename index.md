@@ -18,6 +18,10 @@ Created entire cloud based or on-premise APIs based on message queues, SOAP, RES
 
 ### tpg, tl
 
+<img src="tpg.webp" alt="drawing" width="200" />
+
+<img src="tl.webp" alt="drawing" width="200"/>
+
 - [tpgPreview](https://www.tpg.ch/fr/voyager/plus-de-mobilite/application-tpg) and [tl](https://www.t-l.ch/abos-billets/billets/ebillets) are the mobile apps that are used by thousands of users around Geneva (tpg) and Lausanne (tl). It helps them find their itineraries by bus or train along with buying their e-tickets from their mobile phone.
 - Front-end Developer: developing new screens of the main app (Ionic, Angular)
 - + evaluating interactions with others external (React native)
@@ -26,6 +30,8 @@ Created entire cloud based or on-premise APIs based on message queues, SOAP, RES
 - L3 support (JIRA)
 
 ### PrestoPark
+
+<img src="portail-web-prestopark-macbook.png" alt="drawing" width="200"/>
 
 - [PrestoPark](https://prestopark.com/) is a range of e-services for motorists using paid on-street parking. Helps finding parking spot by guiding motorists to vacant parking spaces and offering them in payment solutions with fully paperless parking tickets.
 - Front-end Developer: developed the main website (AngularJS)
