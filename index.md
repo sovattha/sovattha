@@ -52,6 +52,8 @@ On my free time, I create web applications that makes use of the latest modern s
 
 [CryptoScore](https://www.thetradingteam.link/)
 
+<img src="cryptoscore.png" alt="drawing" width="600"/>
+
 - Front-end Developer: developed pages and components using Next.js and React
 - State management using Redux
 - UI framework [Material-UI](https://material-ui.com/)
@@ -59,6 +61,9 @@ On my free time, I create web applications that makes use of the latest modern s
 - DevOps: configured the CI/CD that makes use of Github, SAM CLI and AWS CloudFormation
 
 Example of a screen: https://www.thetradingteam.link/en/dashboard/top10
+
+<img src="cryptoscore-top10.png" alt="drawing" width="600"/>
+
 - The scores are computed using AWS SQS queues to guarantee the completeness of the scraped data from the Coingecko API.
 - Alerts are sent by e-mail using AWS SNS notifications.
 
@@ -66,10 +71,14 @@ Example of a screen: https://www.thetradingteam.link/en/dashboard/top10
 
 [Let's Pay Crypto](https://letspaycrypto.com/) is a web3 dApp that helps people to share their expenses during friend gatherings.
 
+<img src="letspaycrypto.png" alt="drawing" width="600"/>
+
 - Front-end Developer: developed pages and components using Next.js and React
 - State management using Redux
 - UI framework [Material-UI](https://material-ui.com/)
 - Back-end Developer: developed Moralis functions to manage the user data
+
+<img src="letspaycrypto-mobile.png" alt="drawing" width="600"/>
 
 # Github projects
 
